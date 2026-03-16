@@ -1,0 +1,17 @@
+carré  -  16.03.2026
+
+******************************************
+
+******************************************
+
+1   FONCTIONS_UTILISEES
+2   VARIABLES
+3     a EST_DU_TYPE NOMBRE
+4     x EST_DU_TYPE NOMBRE
+5   DEBUT_ALGORITHME
+6     POUR a ALLANT_DE 1 A 9
+7       DEBUT_POUR
+8       x PREND_LA_VALEUR a*a
+9       AFFICHER x
+10      FIN_POUR
+11  FIN_ALGORITHME
